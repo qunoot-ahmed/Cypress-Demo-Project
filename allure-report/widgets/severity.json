@@ -1,0 +1,1 @@
+[{"uid":"528473ff6e259c56","name":"should have the correct page title","time":{"start":1685815076416,"stop":1685815076486,"duration":70},"status":"passed","severity":"normal"},{"uid":"67c03fb050e8aa24","name":"should log in to Opencart","time":{"start":1685815090119,"stop":1685815096420,"duration":6301},"status":"passed","severity":"normal"}]

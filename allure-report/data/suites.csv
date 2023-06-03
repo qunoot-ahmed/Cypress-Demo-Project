@@ -1,0 +1,3 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sat Jun 03 22:58:10 PKT 2023","Sat Jun 03 22:58:16 PKT 2023","6301","","Opencart Login Page","","","","should log in to Opencart",""
+"passed","Sat Jun 03 22:57:56 PKT 2023","Sat Jun 03 22:57:56 PKT 2023","70","","Home page","","","","should have the correct page title",""
