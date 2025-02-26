@@ -5,7 +5,7 @@ const allureWriter = require('@shelex/cypress-allure-plugin/writer');
 module.exports = defineConfig({
   projectId: '53ve86',
   env: {
-    user: process.env.USERNAME,
+    user: process.env.EMAIL,
     password: process.env.PASSWORD
   },
   e2e: {
@@ -18,4 +18,3 @@ module.exports = defineConfig({
     }
   }
 });
-

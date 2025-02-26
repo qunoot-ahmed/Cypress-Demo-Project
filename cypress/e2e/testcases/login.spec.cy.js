@@ -6,9 +6,9 @@ describe('Opencart Login Page', () => {
     cy.openDemoblazeWebsite();
   })
 
-  it('should log in to Opencart', () => {
+  it.only('should log in to Opencart', () => {
     loginpage.clickLoginLink()
-    cy.login()
+    cy.login(Cypress.env('user'), Cypress.env('password'))
     loginpage.goToHomePage()
     loginpage.productImage()
   });
