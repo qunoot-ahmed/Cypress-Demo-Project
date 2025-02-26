@@ -1,5 +1,9 @@
 .env
-node_modules
+node_modules/
+cypress/videos/
+cypress/screenshots/
+*.mp4
+*.log
 allure-report/
 allure-results/
 allure-report/data/
